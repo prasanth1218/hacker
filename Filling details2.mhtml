@@ -1,0 +1,44 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///D:/HTML%20Program/Assignment-2.html
+Subject: Filling details
+Date: Wed, 12 Jun 2024 10:53:23 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--dRE3wmaBnCsBY7CpweWLBlTUjrdQdTVDR9UVBSzIIt----"
+
+
+------MultipartBoundary--dRE3wmaBnCsBY7CpweWLBlTUjrdQdTVDR9UVBSzIIt----
+Content-Type: text/html
+Content-ID: <frame-5B7C9B2BF28721D4257B7619D90F19E7@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///D:/HTML%20Program/Assignment-2.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Filling details</title>
+</head>
+<body>
+    <form>=20
+        <label for=3D"name">NAME</label><br>
+        <input type=3D"text" id=3D"name" name=3D"name"><br>
+        <label for=3D"email">EMAIL</label><br>
+        <input type=3D"email" id=3D"email" name=3D"email"><br>
+        <label for=3D"password">PASSWORD</label><br>
+        <input type=3D"password" id=3D"password" name=3D"passwors"><br>
+
+        <input type=3D"checkbox" name=3D"condition 1" value=3D"yes">conditi=
+on 1<br>
+        <input type=3D"checkbox" name=3D"condition 2" value=3D"yes">conditi=
+on 2<br>
+        <input type=3D"submit" id=3D"submit" name=3D"submit">
+
+    </form>
+   =20
+
+
+</body></html>
+------MultipartBoundary--dRE3wmaBnCsBY7CpweWLBlTUjrdQdTVDR9UVBSzIIt------
